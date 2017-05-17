@@ -18,7 +18,7 @@ $(document).ready(function(e) {
 					navigator.notification.vibrate(1000);
 					break;
 				}
-			},"Aplicacion","Beep,Vibrar,Camcelar");
+			},"Aplicacion","Beep,Vibrar,Cancelar");
 		}); 
 	}, false); 
 }); 
